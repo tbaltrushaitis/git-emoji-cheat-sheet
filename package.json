@@ -1,0 +1,27 @@
+{
+  "name": "git-emoji-cheat-sheet",
+  "version": "1.0.0",
+  "description": "Git Emoji Cheat Sheet",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbaltrushaitis/git-emoji-cheat-sheet.git"
+  },
+  "keywords": [
+    "git",
+    "emoji",
+    "cheat",
+    "sheet",
+    "icons",
+    "smiles"
+  ],
+  "author": "Baltrushaitis Tomas <tbaltrushaitis@gmail.com> (https://github.com/tbaltrushaitis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbaltrushaitis/git-emoji-cheat-sheet/issues"
+  },
+  "homepage": "https://github.com/tbaltrushaitis/git-emoji-cheat-sheet#readme"
+}
