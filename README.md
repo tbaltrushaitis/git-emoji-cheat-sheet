@@ -10,11 +10,18 @@
 
 ## Live Demo ##
 
- [Emoji Cheat Sheet Demo Page](http://bit.ly/git-emoji) :point_left:
+[Emoji Cheat Sheet Demo Page](http://bit.ly/git-emoji) :point_left:
 
 ---
 
-## Usage ##
+<details open>
+  <summary>Sprite</summary>
+  <div align="center">
+    <img max-width="720px" max-height="477px" src="src/assets/img/sprite.png" />
+  </div>
+</details>
+
+---
 
 ### Download ###
 

@@ -1,0 +1,28 @@
+{
+  "name": "git-emoji-cheat-sheet",
+  "description": "Git Emoji Cheat Sheet",
+  "main": "index.js",
+  "authors": [
+    "Baltrushaitis Tomas <tbaltrushaitis@gmail.com> (https://github.com/tbaltrushaitis)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "emoji",
+    "cheat",
+    "sheet",
+    "icons",
+    "smiles"
+  ],
+  "homepage": "https://github.com/tbaltrushaitis/git-emoji-cheat-sheet",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
