@@ -88,4 +88,4 @@ Git Emoji Cheat Sheet is an open source project created by **Tomas Baltrushaitis
 
 ---
 
-:scorpius:
+:scorpion:
